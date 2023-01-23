@@ -1,3 +1,4 @@
-
+a = "mahesh"
 print('hello world, My name is Satyam Rathor.')
-print('cs')
+print(a)
+print('is my friend')
